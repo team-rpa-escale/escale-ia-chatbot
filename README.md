@@ -1,6 +1,6 @@
 # Termos de Serviço - Plataforma de Chatbot de Inteligência Artificial Escale
 
-![Escale AI Chatbot](https://placeholder.svg?height=150&width=500&text=Escale+AI+Chatbot)
+**Escale IA Chatbot
 
 **Última atualização: 5 de abril de 2025**
 
